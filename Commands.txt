@@ -1,0 +1,5 @@
+git clone url - gets repository
+git pull - updates repository
+git add . - adds new files
+git commit -m "message" - confirms that you want to add the file and adds a short message
+git push - pushes the message
